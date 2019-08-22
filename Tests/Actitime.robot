@@ -9,7 +9,7 @@ Suite Teardown  Ending the data base
 
 
 *** Variables ***
-${TESTURL}=  https://online.actitime.com/testyantra3/login.do
+${TESTURL}=    https://online.actitime.com/testyantra3/login.do
 ${BROWSER}=  chrome
 ${USERNAME}=  admin
 ${PASSWORD}=  manager
